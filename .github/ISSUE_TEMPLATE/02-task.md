@@ -1,5 +1,5 @@
 ---
-name: Task
+name: Task / Feature Ticket
 about: A clear, actionable unit of work.
 title: "[Task] "
 type: "task"
